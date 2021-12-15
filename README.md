@@ -25,4 +25,6 @@ Open the command prompt in the desired folder and type the command.
 
   
 >> python manage.py runserver
+  
+  
 http://127.0.0.1:8000/
