@@ -23,4 +23,6 @@ Open the command prompt in the desired folder and type the command.
 
 >> django-admin start project <name of the project>
 
-Lets take a look at some of the important files in the project.
+  
+>> python manage.py runserver
+http://127.0.0.1:8000/
